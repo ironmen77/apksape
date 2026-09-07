@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAPE</string>
+
+    <!-- ====================================================================
+         DUA BARIS DI BAWAH INI WAJIB DIGANTI dengan alamat hosting SAPE Anda.
+         host_name  : nama domain saja, TANPA https:// dan TANPA garis miring
+         launch_url : alamat lengkap halaman awal
+         ==================================================================== -->
+    <string name="host_name">GANTI-DENGAN-DOMAIN-ANDA</string>
+    <string name="launch_url">https://GANTI-DENGAN-DOMAIN-ANDA/index.html</string>
+
+    <!-- Diisi otomatis oleh CI dari sidik jari kunci penandatangan. -->
+    <string name="asset_statements" translatable="false">
+        [{
+          \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+          \"target\": {
+            \"namespace\": \"web\",
+            \"site\": \"https://GANTI-DENGAN-DOMAIN-ANDA\"
+          }
+        }]
+    </string>
+</resources>

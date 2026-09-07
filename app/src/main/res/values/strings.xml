@@ -7,8 +7,8 @@
          host_name  : nama domain saja, TANPA https:// dan TANPA garis miring
          launch_url : alamat lengkap halaman awal
          ==================================================================== -->
-    <string name="host_name">GANTI-DENGAN-DOMAIN-ANDA</string>
-    <string name="launch_url">https://GANTI-DENGAN-DOMAIN-ANDA/index.html</string>
+    <string name="host_name">ironmen77.github.io</string>
+    <string name="launch_url">https://ironmen77.github.io/penilaianpjok_v38/index.html</string>
 
     <!-- Diisi otomatis oleh CI dari sidik jari kunci penandatangan. -->
     <string name="asset_statements" translatable="false">
